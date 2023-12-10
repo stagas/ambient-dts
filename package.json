@@ -1,9 +1,10 @@
 {
   "name": "ambient-dts",
+  "author": "stagas",
+  "version": "1.0.0",
+  "license": "AGPLv3",
   "main": "",
   "types": "index.d.ts",
-  "author": "stagas",
-  "license": "AGPLv3",
   "devDependencies": {
     "@total-typescript/ts-reset": "0.5.1",
     "@types/jest": "29.5.11"
