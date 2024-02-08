@@ -1,5 +1,5 @@
 import '@total-typescript/ts-reset'
-import '@types/jest'
+import 'vitest/globals'
 declare global {
   interface ErrorConstructor {
     captureStackTrace(thisArg: any, func: any): void
